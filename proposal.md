@@ -2,15 +2,14 @@
 
 ## What will (likely) be the title of your project?
 Rosen Clicker 
-TODO
+
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 Similar to cookie clicker, but instead of a cookie it's Mr. Rosen.
-TODO
+
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
-
-TODO
+My software would have a picture of Mr. Rosen's face thats clickable and the more you click on Rosen's face the higher your score will be. 
 
 ## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
